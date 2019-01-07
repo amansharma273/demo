@@ -3,11 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="chrome.multipass">
+      <class name="chrome.multifail">
         <methods>
-          <include name="testone"/>
+          <include name="Method2"/>
+          <include name="Method1"/>
         </methods>
-      </class> <!-- chrome.multipass -->
+      </class> <!-- chrome.multifail -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <test thread-count="5" name="Test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="chrome.multipass">
-        <methods>
-          <include name="testone"/>
-        </methods>
-      </class> <!-- chrome.multipass -->
-      <class name="chrome.multiskip">
-        <methods>
-          <include name="testtwo"/>
-          <include name="testone"/>
-        </methods>
-      </class> <!-- chrome.multiskip -->
       <class name="chrome.multifail">
         <methods>
           <include name="Method2"/>
@@ -21,5 +10,5 @@
         </methods>
       </class> <!-- chrome.multifail -->
     </classes>
-  </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

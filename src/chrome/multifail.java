@@ -22,10 +22,10 @@ public class multifail {
 		System.out.println("After Assert");
 }
  
-	@Test
-	public void testone() {
-		System.out.println("My First Test Case");
+	//@Test
+	//public void testone() {
+	//	System.out.println("My First Test Case");
 		
 		}
 
-}
+
