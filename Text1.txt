@@ -1,0 +1,29 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B03B-A380
+
+ Directory of C:\Users\Admin
+
+01/07/2019  12:15 PM    <DIR>          .
+01/07/2019  12:15 PM    <DIR>          ..
+12/18/2018  06:56 PM    <DIR>          .cache
+12/19/2018  11:23 PM    <DIR>          .eclipse
+01/07/2019  12:01 PM    <DIR>          .p2
+12/19/2018  11:24 PM    <DIR>          .tooling
+12/31/2018  04:20 PM    <DIR>          3D Objects
+12/31/2018  04:20 PM    <DIR>          Contacts
+01/02/2019  01:08 PM    <DIR>          Desktop
+12/31/2018  04:20 PM    <DIR>          Documents
+01/07/2019  11:49 AM    <DIR>          Downloads
+12/19/2018  10:02 PM    <DIR>          eclipse
+01/02/2019  11:30 PM    <DIR>          eclipse-workspace
+12/31/2018  04:20 PM    <DIR>          Favorites
+12/31/2018  04:20 PM    <DIR>          Links
+12/31/2018  04:20 PM    <DIR>          Music
+12/18/2018  07:17 PM    <DIR>          OneDrive
+12/31/2018  04:20 PM    <DIR>          Pictures
+12/31/2018  04:20 PM    <DIR>          Saved Games
+12/31/2018  04:20 PM    <DIR>          Searches
+01/07/2019  12:15 PM                 0 Text1.txt
+12/31/2018  04:20 PM    <DIR>          Videos
+               1 File(s)              0 bytes
+              21 Dir(s)  283,290,271,744 bytes free
